@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/DecoratorMultipleInheritance/bin/Debug/netcoreapp2.0/DecoratorMultipleInheritance.deps.json
+/Users/koji/Repositories/Csharp/DecoratorMultipleInheritance/bin/Debug/netcoreapp2.0/DecoratorMultipleInheritance.runtimeconfig.json
+/Users/koji/Repositories/Csharp/DecoratorMultipleInheritance/bin/Debug/netcoreapp2.0/DecoratorMultipleInheritance.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/DecoratorMultipleInheritance/bin/Debug/netcoreapp2.0/DecoratorMultipleInheritance.dll
+/Users/koji/Repositories/Csharp/DecoratorMultipleInheritance/bin/Debug/netcoreapp2.0/DecoratorMultipleInheritance.pdb
+/Users/koji/Repositories/Csharp/DecoratorMultipleInheritance/obj/Debug/netcoreapp2.0/DecoratorMultipleInheritance.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/DecoratorMultipleInheritance/obj/Debug/netcoreapp2.0/DecoratorMultipleInheritance.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/DecoratorMultipleInheritance/obj/Debug/netcoreapp2.0/DecoratorMultipleInheritance.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/DecoratorMultipleInheritance/obj/Debug/netcoreapp2.0/DecoratorMultipleInheritance.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/DecoratorMultipleInheritance/obj/Debug/netcoreapp2.0/DecoratorMultipleInheritance.dll
+/Users/koji/Repositories/Csharp/DecoratorMultipleInheritance/obj/Debug/netcoreapp2.0/DecoratorMultipleInheritance.pdb
